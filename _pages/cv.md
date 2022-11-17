@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. History, University of California, Berkeley, 2007
+* M.A. History, Columbia University, 2010
+* Ph.D History, University of California, Berkeley, 2017
 
-Work experience
+Academic Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor (2017-present)
+  * University of Washington, Seattle
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Fellow (2017)
+  * Shanghai University, Center for the History of Global Development
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Visiting Researcher (2012-13)
+  * Academia Sinica, Institute of Modern History
 
 Publications
 ======
@@ -42,9 +32,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Public Commentary
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.commentary %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -54,6 +44,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
