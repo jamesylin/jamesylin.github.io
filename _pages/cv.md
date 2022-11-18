@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * B.A. History, University of California, Berkeley, 2007
 * M.A. History, Columbia University, 2010
 * Ph.D History, University of California, Berkeley, 2017
 
-Academic Positions
-======
+## Academic Positions
+
 * Assistant Professor (2017-present)
   * University of Washington, Seattle
 
@@ -26,20 +26,20 @@ Academic Positions
 * Visiting Researcher (2012-13)
   * Academia Sinica, Institute of Modern History
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Public Commentary
-======
+## Public Commentary
+
   <ul>{% for post in site.commentary %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

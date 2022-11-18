@@ -6,5 +6,5 @@ excerpt: 'Taiwan is unique among postcolonial societies today for a widespread s
 date: 2022-10-10
 venue: 'History Compass'
 paperurl: 'https://doi.org/10.1111/hic3.12751'
-citation: 'Lin, James. (2022). &quot;Nostalgia for Japanese Colonialism: Historical Memory and Postcolonialism in Contemporary Taiwan.&quot; *History Compass*. e12751 (2022).'
+citation: 'Lin, James. “Nostalgia for Japanese Colonialism: Historical Memory and Postcolonialism in Contemporary Taiwan.” History Compass 20, no. 11 (2022): e12751.'
 ---
