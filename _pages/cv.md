@@ -17,14 +17,14 @@ redirect_from:
 
 ## Academic Positions
 
-* Assistant Professor (2017-present)
-  * University of Washington, Seattle
+* University of Washington, Seattle
+  * Assistant Professor (2017-present)
 
-* Postdoctoral Fellow (2017)
-  * Shanghai University, Center for the History of Global Development
+* Shanghai University, Center for the History of Global Development
+  * Postdoctoral Fellow (2017)
   
-* Visiting Researcher (2012-13)
-  * Academia Sinica, Institute of Modern History
+* Academia Sinica, Institute of Modern History
+  * Visiting Researcher (2012-13)
 
 ## Publications
 
