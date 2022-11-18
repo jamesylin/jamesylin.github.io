@@ -32,11 +32,13 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!---
 ## Public Commentary
 
   <ul>{% for post in site.commentary %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+--->
   
 ## Teaching
 
