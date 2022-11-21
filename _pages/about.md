@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a historian of modern Taiwan and Assistant Professor at the University of Washington Jackson School of International Studies. I earned my PhD in History at the University of California, Berkeley.
+I am a historian of modern Taiwan and [Assistant Professor at the University of Washington Jackson School of International Studies](https://jsis.washington.edu/people/james-lin/). I earned my PhD in History at the University of California, Berkeley.  At UW, I also help run the [University of Washington Taiwan Studies Program](https://jsis.washington.edu/taiwan/).
 
-Broadly, I am interested in political economy, development, and capitalism. My current book project examines the history of agrarian development, beginning in Taiwan in the 1950s and ending with Taiwan's development missions to Southeast Asia, Africa, and Latin America during the Cold War.
+Broadly, I am interested in political economy, development, and capitalism, and their intersections with science and technology studies, environment, diplomacy, and food. My current book project examines the history of agrarian development in Taiwan and in Taiwan's development missions to the Global South during the Cold War.
 
-I write for the public on issues of history, politics, and society in Taiwan and China. I have written an op-ed for *The Guardian*, advised Last Week Tonight with John Oliver, and been quoted or interviewed by *NPR, The New York Times, BBC News, Associated Press, Nikkei Asia, Al Jazeera, Quartz, VICE World News, Global News, Hyphen Magazine,* and other international media.
+I write for the public on issues of history, politics, and society in Taiwan and China. I have [written articles for *The Guardian* and *Jacobin*](/commentary), advised [Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=9Y18-07g39g), and been quoted or interviewed by *NPR, The New York Times, BBC News, Associated Press, Nikkei Asia, Al Jazeera, Quartz, VICE World News, Global News, Hyphen Magazine,* among others.

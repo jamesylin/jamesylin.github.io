@@ -1,7 +1,7 @@
 ---
 title: "The United States in the World"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate lecture course"
 permalink: /teaching/us-world
 venue: "University of Washington, Jackson School of International Studies"
 date: 2022-01-01
