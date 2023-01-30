@@ -5,6 +5,10 @@ permalink: /commentary/
 author_profile: true
 ---
 
+## [Taiwan’s History Shows Why We Need a Global Democratic Order](https://jacobin.com/2023/01/taiwan-history-global-democratic-order-international-relations-nationalism)
+
+*Jacobin*, January 20, 2023
+
 ## [Taiwan Shouldn’t Be Used as a Geopolitical Pawn](https://jacobin.com/2022/11/taiwan-geopolitical-pawn-china-us-international-relations-cold-war-history)
 
 *Jacobin*, November 21, 2022
