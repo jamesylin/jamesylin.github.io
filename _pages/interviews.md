@@ -9,10 +9,13 @@ author_profile: true
 
 Council on Foreign Relations *Why It Matters*, July 13, 2023
 
+## [Tell Me About Semiconductor Manufacturing in Taiwan](https://ceas.arizona.edu/tmaEastAsia)
+
+University of Arizona Center for East Asian Studies *Tell Me About East Asia*, Ep. 2, April 28, 2023
+
 ## [Will the US and China go to war over Taiwan?](https://www.bbc.co.uk/programmes/w3ct39tb)
 
 BBC News *The Inquiry*, August 11, 2022
-
 
 ## [Academic work-life balance // Pedagogy // University of Washington's Taiwan Studies Program](https://www.na-tsa.org/natsa-podcast)
 
