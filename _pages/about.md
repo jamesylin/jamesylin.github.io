@@ -10,7 +10,7 @@ redirect_from:
 
 I am a historian of modern Taiwan and [Assistant Professor at the University of Washington Jackson School of International Studies](https://jsis.washington.edu/people/james-lin/). I earned my PhD in History at the University of California, Berkeley.  At UW, I also help run the [University of Washington Taiwan Studies Program](https://jsis.washington.edu/taiwan/).
 
-Broadly, I am interested in political economy, development, and capitalism, and their intersections with science and technology studies, environment, diplomacy, and food. My current book project examines the history of agrarian development in Taiwan and in Taiwan's development missions to the Global South during the Cold War.
+Broadly, I am interested in political economy, development, and capitalism, and their intersections with science and technology studies, environment, diplomacy, and food. My forthcoming book, *In the Global Vanguard: Agrarian Development and the Making of Modern Taiwan* (University of California Press 2025) examines the history of agrarian development in Taiwan and in Taiwan's development missions to the Global South during the Cold War.
 
 I write for the public on issues of history, politics, and society in Taiwan and China. I have [written articles for *The Guardian* and *Jacobin*](/~jameslin/commentary), advised [Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=9Y18-07g39g), and been quoted by *NPR, The New York Times, The New Yorker, BBC News, Associated Press, Nikkei Asia, Al Jazeera, Quartz, VICE World News, Global News,* among others.
 
