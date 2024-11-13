@@ -5,9 +5,11 @@ permalink: /book/
 author_profile: true
 ---
 
-## In the Global Vanguard: Agrarian Development and the Making of Modern Taiwan
+<p align="center" width="100%">
+    <img width="33%" src='/~jameslin/images/vanguardcover.jpg' alt="coverimage">
+</p>
 
-<img src='/images/vanguardcover.jpg'>
+## In the Global Vanguard: Agrarian Development and the Making of Modern Taiwan
 
 My forthcoming [book from University of California Press (2025)](https://www.ucpress.edu/books/in-the-global-vanguard/paper) will be available open access once published.  Below is the official description:
 

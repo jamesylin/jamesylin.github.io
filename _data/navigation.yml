@@ -5,10 +5,13 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Book"
+    url: /book/ 
+
   - title: "Academic Publications"
     url: /publications/
 
-  - title: "Public Commentary"
+  - title: "Public Writing"
     url: /commentary/  
     
   - title: "Interviews"
