@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Public Commentary"
+title: "Public Writing"
 permalink: /commentary/
 author_profile: true
 ---
