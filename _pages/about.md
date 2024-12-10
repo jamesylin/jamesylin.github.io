@@ -14,4 +14,4 @@ Broadly, I am interested in political economy, development, and capitalism, and 
 
 I write for the public on issues of history, politics, and society in Taiwan and China. I have [written articles for *The Guardian* and *Jacobin*](/~jameslin/commentary), advised [Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=9Y18-07g39g), and been quoted by *NPR, The New York Times, The New Yorker, BBC News, Associated Press, Nikkei Asia, Al Jazeera, Quartz, VICE World News, Global News,* among others.
 
-My research has been supported by the Chiang Ching-Kuo Foundation, the Society for Historians of American Foreign Relations, Fulbright, the Taiwan MOFA Fellowship, the Chiu Scholarly Exchange Program, the Wilson Center, among others.
+My research has been supported by the Chiang Ching-Kuo Foundation, the Society for Historians of American Foreign Relations, Fulbright, Taiwan National Science and Technology Council, Taiwan MOFA Fellowship, the Chiu Scholarly Exchange Program, the Wilson Center, among others.
