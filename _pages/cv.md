@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* B.A. History, University of California, Berkeley, 2007
+* M.A. History, Columbia University, 2010
+* Ph.D History, University of California, Berkeley, 2017
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Academic Positions
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* University of Washington, Seattle
+  * Assistant Professor (2017-present)
+
+* Shanghai University, Center for the History of Global Development
+  * Postdoctoral Fellow (2017)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Academia Sinica, Institute of Modern History
+  * Visiting Researcher (2012-13)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+## Publications
+
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+<!---
+## Public Commentary
+
+  <ul>{% for post in site.commentary %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
+--->
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
+## Teaching
+
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
