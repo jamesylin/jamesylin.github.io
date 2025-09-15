@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a historian of modern Taiwan and [Assistant Professor at the University of Washington Jackson School of International Studies](https://jsis.washington.edu/people/james-lin/). I earned my PhD in History at the University of California, Berkeley.  I also chair the [University of Washington Taiwan Studies Program](https://jsis.washington.edu/taiwan/).
+I am a historian of modern Taiwan and [Associate Professor at the University of Washington Jackson School of International Studies](https://jsis.washington.edu/people/james-lin/). I earned my PhD in History at the University of California, Berkeley.  I also chair the [University of Washington Taiwan Studies Program](https://jsis.washington.edu/taiwan/).
 
 Broadly, I am interested in political economy, development, and capitalism, and their intersections with science and technology studies, environment, diplomacy, and food. My book, [*In the Global Vanguard: Agrarian Development and the Making of Modern Taiwan*](/~jameslin/book) examines the history of agrarian development in Taiwan and in Taiwan's development missions to the Global South during the Cold War.
 
